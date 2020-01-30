@@ -1,0 +1,10 @@
+E:\OneDrive - UMP(1)\TeduShopAPIDapperCore\TeduShopAPIDapperCore\TeduShopData\bin\Debug\netcoreapp3.1\TeduShopData.deps.json
+E:\OneDrive - UMP(1)\TeduShopAPIDapperCore\TeduShopAPIDapperCore\TeduShopData\bin\Debug\netcoreapp3.1\TeduShopData.dll
+E:\OneDrive - UMP(1)\TeduShopAPIDapperCore\TeduShopAPIDapperCore\TeduShopData\obj\Debug\netcoreapp3.1\TeduShopData.csprojAssemblyReference.cache
+E:\OneDrive - UMP(1)\TeduShopAPIDapperCore\TeduShopAPIDapperCore\TeduShopData\obj\Debug\netcoreapp3.1\TeduShopData.AssemblyInfoInputs.cache
+E:\OneDrive - UMP(1)\TeduShopAPIDapperCore\TeduShopAPIDapperCore\TeduShopData\obj\Debug\netcoreapp3.1\TeduShopData.AssemblyInfo.cs
+E:\OneDrive - UMP(1)\TeduShopAPIDapperCore\TeduShopAPIDapperCore\TeduShopData\bin\Debug\netcoreapp3.1\TeduShopData.runtimeconfig.json
+E:\OneDrive - UMP(1)\TeduShopAPIDapperCore\TeduShopAPIDapperCore\TeduShopData\bin\Debug\netcoreapp3.1\TeduShopData.runtimeconfig.dev.json
+E:\OneDrive - UMP(1)\TeduShopAPIDapperCore\TeduShopAPIDapperCore\TeduShopData\bin\Debug\netcoreapp3.1\TeduShopData.pdb
+E:\OneDrive - UMP(1)\TeduShopAPIDapperCore\TeduShopAPIDapperCore\TeduShopData\obj\Debug\netcoreapp3.1\TeduShopData.dll
+E:\OneDrive - UMP(1)\TeduShopAPIDapperCore\TeduShopAPIDapperCore\TeduShopData\obj\Debug\netcoreapp3.1\TeduShopData.pdb

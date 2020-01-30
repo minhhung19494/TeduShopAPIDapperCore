@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200107155340_Hung.cs" />
+    <Compile Remove="Migrations\20200107155340_Hung.Designer.cs" />
+    <Compile Remove="Migrations\20200110084843_Edit conflict.cs" />
+    <Compile Remove="Migrations\20200110084843_Edit conflict.Designer.cs" />
+    <Compile Remove="Migrations\20200110155556_add_NormalizedUserName_column.cs" />
+    <Compile Remove="Migrations\20200110155556_add_NormalizedUserName_column.Designer.cs" />
+    <Compile Remove="Migrations\20200112135016_EditPermissionTable_AddActionTable.cs" />
+    <Compile Remove="Migrations\20200112135016_EditPermissionTable_AddActionTable.Designer.cs" />
+    <Compile Remove="Migrations\20200112141128_EditPermissionTable_AddActionTable_2.cs" />
+    <Compile Remove="Migrations\20200112141128_EditPermissionTable_AddActionTable_2.Designer.cs" />
+    <Compile Remove="Migrations\20200115095546_addDynamicAttributes.cs" />
+    <Compile Remove="Migrations\20200115095546_addDynamicAttributes.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Dapper" Version="2.0.30" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>
